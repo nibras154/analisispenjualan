@@ -259,4 +259,3 @@ print("\n===== PROGRAM SELESAI =====")
 <img width="1502" height="838" alt="image" src="https://github.com/user-attachments/assets/1cc8d166-03f7-4dc0-85f4-981b93d8020c" />
 <img width="998" height="707" alt="image" src="https://github.com/user-attachments/assets/edcf2ee6-3906-4c48-912f-3c56708e0dfe" />
 
-
